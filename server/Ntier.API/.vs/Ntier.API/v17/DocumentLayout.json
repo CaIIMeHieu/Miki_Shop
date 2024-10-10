@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.dal\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD59CC-AC86-47F2-9431-F0C00FEB9346}|..\\Ntier.DTO\\Ntier.DTO.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.dto\\dto\\products\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.bll\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\controllers\\statisticalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\statisticalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD59CC-AC86-47F2-9431-F0C00FEB9346}|..\\Ntier.DTO\\Ntier.DTO.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.dto\\dto\\products\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.bll\\attributes\\authorizerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.bll\\filter\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\toilahieu\\onedrive\\desktop\\bainopcuoiky\\ccptpm_chuongtrinh_nhom4\\ccptpm_chuongtrinh_nhom4\\server\\ntier.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\Miki\\Miki_Shop\\server\\Ntier.DTO\\DTO\\User\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Interfaces\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Context\\ShopContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\ProductStatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ProductsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Order\\OrderDetail_DTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\StatisticalDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\CartDetailDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\CartDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\OrderDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Extentions\\AutoMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Ntier.DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.DTO\\DTO\\Products\\ProductQueryParameters.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DTO\\DTO\\Products\\ProductQueryParameters.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.DTO\\DTO\\Products\\ProductQueryParameters.cs",
+              "RelativeToolTip": "..\\Ntier.DTO\\DTO\\Products\\ProductQueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:53:13.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAArwKUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:51:19.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Services\\ProductsService.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Services\\ProductsService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADwv0cAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:51:04.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAArwHsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:21:32.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:45:43.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T18:58:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAqwDMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:49:10.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAQwIEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:06:08.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorizeRole.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Attributes\\AuthorizeRole.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Attributes\\AuthorizeRole.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Attributes\\AuthorizeRole.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Attributes\\AuthorizeRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:45:36.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwGkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:24:44.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:28:35.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAiwFwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:40:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.DTO\\DTO\\Products\\Pagination.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DTO\\DTO\\Products\\Pagination.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.DTO\\DTO\\Products\\Pagination.cs",
+              "RelativeToolTip": "..\\Ntier.DTO\\DTO\\Products\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:22:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatisticalsController.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\StatisticalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatisticalsController.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\StatisticalsController.cs",
+              "RelativeToolTip": "Controllers\\StatisticalsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:37:48.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:15:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Repositories\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:48:29.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Interfaces\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:37:56.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Context\\ShopContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Context\\ShopContext.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Context\\ShopContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Context\\ShopContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:04:20.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Filter\\AuthorizationFilter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:30:48.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductStatistical.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\ProductStatistical.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\ProductStatistical.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\ProductStatistical.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\ProductStatistical.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:04:10.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:50:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ProductsService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ProductsService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:49:10.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Comment.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Comment.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Comment.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:41:34.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Category.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Category.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:41:33.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDetail_DTO.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Order\\OrderDetail_DTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Order\\OrderDetail_DTO.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Order\\OrderDetail_DTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Order\\OrderDetail_DTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:07:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StatisticalDTO.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\StatisticalDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\StatisticalDTO.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\StatisticalDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\StatisticalDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:57:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Overview.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Overview.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Overview.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Overview.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\Overview.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:50:08.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ToilaHieu\\OneDrive\\Desktop\\BaiNopCuoiKy\\CCPTPM_ChuongTrinh_Nhom4\\CCPTPM_ChuongTrinh_Nhom4\\server\\Ntier.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T15:46:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartDetailDTO.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\CartDetailDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\CartDetailDTO.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\CartDetailDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DTO\\DTO\\CartDetailDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:38:46.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Cart.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Cart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Cart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:19:37.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\CartDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\CartDetail.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\CartDetail.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\CartDetail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:57:06.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ImageService.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ImageService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Services\\ImageService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:49:10.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Product.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:42:48.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Order.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\Order.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:25:22.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Entities\\OrderDetail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:22:57.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\coode\\Miki\\Miki_Shop\\server\\Ntier.DTO\\DTO\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\Miki\\Miki_Shop\\server\\Ntier.DTO\\DTO\\User\\UserDTO.cs",
+              "ToolTip": "C:\\coode\\Miki\\Miki_Shop\\server\\Ntier.DTO\\DTO\\User\\UserDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\Miki\\Miki_Shop\\server\\Ntier.DTO\\DTO\\User\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:49:10.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Extentions\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Extentions\\AutoMapper.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Extentions\\AutoMapper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\Extentions\\AutoMapper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:49:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\DependencyInjection.cs",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.BLL\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:49:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Ntier.DAL.csproj",
+              "DocumentMoniker": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Ntier.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Ntier.DAL.csproj",
+              "ToolTip": "C:\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Ntier.DAL.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\coode\\CodeDeDayLen\\server\\Ntier.DAL\\Ntier.DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T05:49:10.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
